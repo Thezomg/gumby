@@ -1,0 +1,6 @@
+PyYAML==3.10
+clize==2.0
+elementtree==1.2.7-20070827-preview
+netaddr==0.7.10
+python-dateutil==2.1
+slugify==0.0.1

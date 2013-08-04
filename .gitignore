@@ -1,0 +1,4 @@
+*.py[co]
+config.yml
+config.yml.bak
+.DS_Store
